@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.48" height="100.78" viewBox="0 0 111.48 100.78">
+  <title>keycap</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <polyline id="color" points="2.58 69.59 54.62 98.53 109.38 66.12 102.68 27.9 58.09 2.02 10.15 28.35 2.1 68.12" fill="#fff"/>
+        <g>
+          <path d="M51.38,55.58l-41.62-24c-1.42-.82-1.24-2.25.4-3.2L54.44,2.78A6.16,6.16,0,0,1,60,2.55l41.62,24c1.42.82,1.24,2.25-.4,3.2L56.92,55.35A6.16,6.16,0,0,1,51.38,55.58Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M102.68,27.9l6.7,38.22a1.15,1.15,0,0,1-.48,1.47L54.62,98.53a1.89,1.89,0,0,1-1.88,0L2.58,69.59a1.15,1.15,0,0,1-.48-1.46L8.8,29.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="54.18" y1="99.57" x2="54.18" y2="56.57" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

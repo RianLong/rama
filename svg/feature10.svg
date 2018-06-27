@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="88" viewBox="0 0 67 88">
+  <title>feature10</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path d="M59,4a4,4,0,0,1,4,4V80a4,4,0,0,1-4,4H8a4,4,0,0,1-4-4V8A4,4,0,0,1,8,4H59m0-4H8A8,8,0,0,0,0,8V80a8,8,0,0,0,8,8H59a8,8,0,0,0,8-8V8a8,8,0,0,0-8-8Z"/>
+        <polygon points="47.36 86.76 5.64 62.67 5.64 54 33 38.2 65.32 56.86 64.32 58.6 33 40.51 7.64 55.15 7.64 61.52 48.36 85.02 47.36 86.76"/>
+        <rect x="32.76" y="38.93" width="2" height="62.62" transform="translate(-43.95 64.35) rotate(-60)"/>
+        <g>
+          <rect x="10.28" y="22.27" width="4.17" height="2"/>
+          <rect x="11.37" y="23.27" width="2" height="3.67"/>
+        </g>
+        <g>
+          <rect x="30.92" y="9.25" width="4.17" height="2"/>
+          <rect x="32" y="10.25" width="2" height="3.67"/>
+        </g>
+        <g>
+          <rect x="35.74" y="25.95" width="4.17" height="2"/>
+          <rect x="36.82" y="26.95" width="2" height="3.67"/>
+        </g>
+        <g>
+          <rect x="43.03" y="22.27" width="4.17" height="2"/>
+          <rect x="44.12" y="23.27" width="2" height="3.67"/>
+        </g>
+        <rect x="32" y="15.5" width="2" height="1.88"/>
+        <rect x="32" y="19.13" width="2" height="1.88"/>
+        <rect x="32" y="22.75" width="2" height="1.88"/>
+        <rect x="32" y="26.38" width="2" height="1.88"/>
+        <rect x="32" y="30.19" width="2" height="1.88"/>
+        <rect x="32" y="33.81" width="2" height="1.88"/>
+        <rect x="32" y="37.44" width="2" height="1.88"/>
+        <rect x="11.37" y="28.38" width="2" height="1.88"/>
+        <rect x="11.37" y="32" width="2" height="1.88"/>
+        <rect x="11.37" y="35.63" width="2" height="1.88"/>
+        <rect x="11.37" y="39.25" width="2" height="1.88"/>
+        <rect x="11.37" y="42.88" width="2" height="1.88"/>
+        <rect x="11.37" y="46.5" width="2" height="1.88"/>
+        <rect x="36.82" y="32.62" width="2" height="1.88"/>
+        <rect x="36.82" y="36.25" width="2" height="1.88"/>
+        <rect x="36.82" y="39.87" width="2" height="1.88"/>
+        <rect x="36.82" y="43.5" width="2" height="1.88"/>
+        <rect x="36.82" y="47.12" width="2" height="1.88"/>
+        <rect x="36.82" y="50.75" width="2" height="1.88"/>
+        <rect x="36.82" y="54.37" width="2" height="1.88"/>
+        <rect x="36.82" y="58" width="2" height="1.88"/>
+        <rect x="44.12" y="28.82" width="2" height="1.88"/>
+        <rect x="44.12" y="32.44" width="2" height="1.88"/>
+        <rect x="44.12" y="36.07" width="2" height="1.88"/>
+        <rect x="44.12" y="39.69" width="2" height="1.88"/>
+        <rect x="44.12" y="43.32" width="2" height="1.87"/>
+        <rect x="44.12" y="46.94" width="2" height="1.88"/>
+        <rect x="44.12" y="50.57" width="2" height="1.88"/>
+        <rect x="44.12" y="54.19" width="2" height="1.88"/>
+        <circle cx="12.37" cy="54.19" r="0.87"/>
+        <circle cx="33" cy="42.41" r="0.87"/>
+        <circle cx="37.82" cy="62.5" r="0.87"/>
+        <circle cx="45.12" cy="58.08" r="0.87"/>
+        <polygon points="64.32 82.4 27.95 61.4 43.95 52.16 65.32 64.5 64.32 66.23 43.95 54.47 31.95 61.4 65.32 80.67 64.32 82.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

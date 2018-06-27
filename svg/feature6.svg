@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.01" height="88" viewBox="0 0 67.01 88">
+  <title>feature6</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <path d="M59,4a4,4,0,0,1,4,4V80a4,4,0,0,1-4,4H8a4,4,0,0,1-4-4V8A4,4,0,0,1,8,4H59m0-4H8A8,8,0,0,0,0,8V80a8,8,0,0,0,8,8H59a8,8,0,0,0,8-8V8a8,8,0,0,0-8-8Z"/>
+        <g>
+          <path d="M64.29,78.27a2.7,2.7,0,0,1-1.36-.37l-6-3.52v-.58c0-2.67-1.66-5.88-3.62-7L16,45.27a1.76,1.76,0,0,0-1.7-.22,2.81,2.81,0,0,0-.93,2.47v1.72L7,45.61V35L31.62,23.79,65.13,43.13l-1,1.73L31.51,26,9,36.29v8.17l2.55,1.45a3.91,3.91,0,0,1,1.75-2.58,3.61,3.61,0,0,1,3.7.22L54.26,65.07c2.45,1.41,4.39,4.91,4.61,8.16l5.07,2.95a.69.69,0,0,0,.69,0l1,1.73A2.69,2.69,0,0,1,64.29,78.27Z"/>
+          <rect x="35.14" y="19.39" width="2" height="65" transform="translate(-26.87 57.24) rotate(-60)"/>
+          <polygon points="63.66 64.87 13.6 35.53 31.1 27.56 65.94 47.98 64.93 49.71 30.98 29.81 17.93 35.75 64.67 63.15 63.66 64.87"/>
+        </g>
+        <rect x="34.12" y="34.38" width="2" height="52.57" transform="translate(-34.98 60.75) rotate(-60)"/>
+        <g>
+          <rect x="54.43" y="83.47" width="10.28" height="2" transform="translate(-32.53 37.56) rotate(-27.82)"/>
+          <rect x="49.89" y="80.85" width="10.28" height="2" transform="translate(-31.83 35.13) rotate(-27.82)"/>
+          <rect x="45.34" y="78.22" width="10.28" height="2" transform="translate(-31.14 32.71) rotate(-27.82)"/>
+          <rect x="40.79" y="75.6" width="10.28" height="2" transform="translate(-30.44 30.28) rotate(-27.82)"/>
+          <rect x="36.25" y="72.97" width="10.28" height="2" transform="translate(-29.74 27.86) rotate(-27.82)"/>
+          <rect x="31.7" y="70.35" width="10.28" height="2" transform="translate(-29.04 25.43) rotate(-27.82)"/>
+          <rect x="27.15" y="67.72" width="10.28" height="2" transform="translate(-28.34 23.01) rotate(-27.82)"/>
+          <rect x="22.61" y="65.1" width="10.28" height="2" transform="translate(-27.64 20.58) rotate(-27.82)"/>
+          <rect x="18.06" y="62.47" width="10.28" height="2" transform="translate(-26.94 18.16) rotate(-27.82)"/>
+          <rect x="13.51" y="59.85" width="10.28" height="2" transform="translate(-26.24 15.74) rotate(-27.82)"/>
+          <rect x="8.97" y="57.22" width="10.28" height="2" transform="translate(-25.54 13.31) rotate(-27.82)"/>
+          <rect x="4.42" y="54.6" width="10.28" height="2" transform="translate(-24.84 10.89) rotate(-27.82)"/>
+          <rect x="-0.13" y="51.97" width="10.28" height="2" transform="translate(-24.14 8.46) rotate(-27.82)"/>
+          <rect x="1.38" y="47.85" width="3.85" height="2" transform="translate(-22.41 7.19) rotate(-27.82)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

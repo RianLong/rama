@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233.16" height="91.14" viewBox="0 0 233.16 91.14">
+  <title>keyboard_ill_fg</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <polygon points="50.86 14.46 2.69 42.37 47.38 69.03 68.07 62.9 76.19 62.9 79.85 64.55 124.28 89.57 172.78 60.9 166.48 56.57 172.78 51.23 182.03 56.57 230.69 29.07 229.49 26.17 185.69 2 137.39 29.9 135.82 38.87 127.86 34.38 124.54 35.78 97.79 51.23 95.89 39.6 50.86 14.46" fill="#fff"/>
+        <g>
+          <path d="M44.58,68,3,44c-1.42-.82-1.24-2.25.4-3.2L47.65,15.25A6.16,6.16,0,0,1,53.19,15L94.81,39c1.42.82,1.24,2.25-.4,3.2L50.12,67.82A6.16,6.16,0,0,1,44.58,68Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M2,42.37" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="95.88" y1="40.37" x2="97.79" y2="51.23" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M47.38,69" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <path id="color" d="M131.17,69.59" fill="#fff"/>
+          <g>
+            <path d="M180,55.58l-41.62-24c-1.42-.82-1.24-2.25.4-3.2L183,2.78a6.16,6.16,0,0,1,5.54-.23l41.62,24c1.42.82,1.24,2.25-.4,3.2L185.51,55.35A6.16,6.16,0,0,1,180,55.58Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+            <line x1="135.82" y1="38.87" x2="137.39" y2="29.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+            <path d="M231.28,27.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+            <path d="M182.78,56.57" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          </g>
+        </g>
+        <g>
+          <path d="M121.47,88.58l-41.62-24c-1.42-.82-1.24-2.25.4-3.2l44.29-25.57a6.16,6.16,0,0,1,5.54-.23l41.62,24c1.42.82,1.24,2.25-.4,3.2L127,88.35A6.16,6.16,0,0,1,121.47,88.58Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M78.89,62.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M172.78,60.9" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+          <path d="M124.28,89.57" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
